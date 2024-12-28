@@ -1,4 +1,5 @@
 # student_information
+Added firebase for the backend performance 
 #output
 ![image](https://github.com/user-attachments/assets/238f7361-e67b-413c-97b8-05d13d5311cc)
 ![image](https://github.com/user-attachments/assets/ae904a9f-dc5a-499b-ab5f-eda0e64b451b)
